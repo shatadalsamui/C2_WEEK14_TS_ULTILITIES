@@ -1,8 +1,27 @@
-# WEEK14.1 Project
+# TypeScript Utilities & Validation Demo
 
 ## Project Overview
 
-TypeScript project with Node.js/Express backend (based on tsconfig.json configuration)
+Practical examples of TypeScript utility types (`Pick`, `Exclude`, `Record`, `Readonly`) and Zod schema validation with Express.js integration
+
+## Project Description
+
+This TypeScript learning project demonstrates:
+
+### Core Features
+- **TypeScript Utility Types**:
+  - Practical examples of `Pick`, `Exclude`, `Record`, and `Readonly`
+  - Type manipulation and narrowing techniques
+  - Map and interface implementations
+
+- **Schema Validation**:
+  - Zod library for runtime validation
+  - Type inference from schemas
+  - Email validation and custom error messages
+
+- **Express.js Integration**:
+  - Type-safe request handling
+  - Basic API endpoint setup
 
 ## Getting Started
 
@@ -44,4 +63,3 @@ Key configuration options (from tsconfig.json):
 
 ## Scripts
 Check `package.json` for available npm scripts
-
